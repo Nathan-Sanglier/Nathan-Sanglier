@@ -5,5 +5,3 @@
 :blue_book: Studying Statistics and Random Modelling in Finance <code>@M2MO</code>
 
 :mag: Engineer <code>@IMT Atlantique</code> & Double-Degree <code>@Audencia Business School</code>
-
-![](http://octodex.github.com/images/daftpunktocat-thomas.gif)
