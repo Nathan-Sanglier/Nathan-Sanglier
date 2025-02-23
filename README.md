@@ -2,8 +2,6 @@
 
 :construction_worker: Currently adding my projects to Github :construction_worker:
 
-Last Year Double-Degree Student <code>@IMT Atlantique</code> & <code>@Audencia Business School</code>
+:blue_book: Studying Statistics and Random Modelling in Finance <code>@M2MO</code>
+:mag: Engineer <code>@IMT Atlantique</code> & Double-Degree <code>@Audencia Business School</code>
 
-:blue_book: Applied Mathematics, Computational Science
-
-:mag: Quantitative Finance, Financial Markets
